@@ -1,4 +1,4 @@
-# 새해맞이 윷놀이 - HTMLCSS중급강좌
+# 새해맞이 윷놀이 - HTML, CSS 중급 강좌
 
 1. <https://www.youtube.com/watch?v=aW3rxRZyODk>
 
