@@ -3,3 +3,5 @@
 1. <https://www.youtube.com/watch?v=aW3rxRZyODk>
 
 2. ![캡쳐](screenshot.gif)
+
+3. <https://hyundai-sangho.github.io/playingYut/>
